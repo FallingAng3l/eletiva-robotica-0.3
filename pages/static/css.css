@@ -1,0 +1,81 @@
+#topicos {
+      background-color: #000000;
+      opacity: 0.8;
+      color: DarkRed;
+      font-size: 20px;
+      padding: 10px;
+      text-align: left;
+    }
+
+
+    body {
+      background-image: url('https://imgur.com/Bd5cmeb.jpeg');
+    }
+
+
+#alu {
+  margin: 30px;
+  height: 30%;
+  width: 30%;
+}
+
+
+    img {
+      margin: 30px;
+      height: 70%;
+      width: 70%;
+
+    }
+
+
+.cria {
+    
+  
+}
+
+
+    h1 {
+      background-color: #000000;
+      opacity: 0.7;
+      text-align: center;
+
+    }
+
+    h2 {
+      background-color: #000000;
+      opacity: 0.7;
+      font-size: 60px;
+      margin: 30px;
+      padding: 10px;
+      text-align: center;
+    }
+
+
+    h4 {
+      background-color: #000000;
+      opacity: 0.7;
+      font-size: 30px;
+      margin: 30px;
+      padding: 10px;
+      text-align: center;
+    }
+
+    p {
+      background-color: #000000;
+      opacity: 0.7;
+      font-size: 60px;
+      margin: 30px;
+      padding: 10px;
+      text-align: center;
+
+    }
+
+    h6 {
+      background-color: #000000;
+      opacity: 0.7;
+      font-size: 20px;
+      margin: 30px;
+      padding: 10px;
+      text-align: left;
+    }
+
